@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=PT+Sans&display=swap');
+
+@import url("container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h3, h4 {
+	font-family: 'Bree Serif', serif;
+	font-weight: bold;
+}
+h2 {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+}
+h3 {
+	font-family: 'Bree Serif', serif;
+	font-weight: bold;
+	font-size: 28px;
+	margin: 10px;
+}
+a {
+	text-decoration: none;
+}
